@@ -2,6 +2,8 @@
 
 This is a **PrestaShop extension** that integrates the **Rapyd MNEE Payment Gateway** with your PrestaShop store.
 
+A demo store is hosted on [http://rapydmnee.duckdns.org:9005/prestashop/index.php](http://rapydmnee.duckdns.org:9005/prestashop/index.php) to try the checkout integration.
+
 With this module, your store can:
 
 - Accept payments via Rapyd MNEE
